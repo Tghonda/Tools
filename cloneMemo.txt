@@ -1,0 +1,27 @@
+hondatadatsugunoMacBook-Pro:Git hondatadatsugu$ git clone --recurse-submodules https://git.zx2c4.com/wireguard-android
+Cloning into 'wireguard-android'...
+remote: Enumerating objects: 17832, done.
+remote: Counting objects: 100% (17832/17832), done.
+remote: Compressing objects: 100% (5330/5330), done.
+remote: Total 17832 (delta 9852), reused 17554 (delta 9592), pack-reused 0 (from 0)
+Receiving objects: 100% (17832/17832), 3.21 MiB | 198.00 KiB/s, done.
+Resolving deltas: 100% (9852/9852), done.
+Submodule 'tunnel/tools/elf-cleaner' (https://github.com/termux/termux-elf-cleaner) registered for path 'tunnel/tools/elf-cleaner'
+Submodule 'tunnel/tools/wireguard-tools' (https://git.zx2c4.com/wireguard-tools) registered for path 'tunnel/tools/wireguard-tools'
+Cloning into '/Users/hondatadatsugu/Proj/Git/wireguard-android/tunnel/tools/elf-cleaner'...
+remote: Enumerating objects: 399, done.        
+remote: Counting objects: 100% (208/208), done.        
+remote: Compressing objects: 100% (90/90), done.        
+remote: Total 399 (delta 128), reused 184 (delta 117), pack-reused 191 (from 1)        
+Receiving objects: 100% (399/399), 8.78 MiB | 6.27 MiB/s, done.
+Resolving deltas: 100% (202/202), done.
+Cloning into '/Users/hondatadatsugu/Proj/Git/wireguard-android/tunnel/tools/wireguard-tools'...
+remote: Enumerating objects: 3319, done.        
+remote: Counting objects: 100% (224/224), done.        
+remote: Compressing objects: 100% (200/200), done.        
+remote: Total 3319 (delta 83), reused 53 (delta 18), pack-reused 3095 (from 1)        
+Receiving objects: 100% (3319/3319), 716.56 KiB | 193.00 KiB/s, done.
+Resolving deltas: 100% (2224/2224), done.
+Submodule path 'tunnel/tools/elf-cleaner': checked out '7efc05090675ec6161b7def862728086a26c3b1f'
+Submodule path 'tunnel/tools/wireguard-tools': checked out 'e2ecaaa739144997ccff89d6ad6ec81698ea6ced'
+
